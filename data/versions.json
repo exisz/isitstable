@@ -11,30 +11,30 @@
     "stabilityScore": {
       "schemaVersion": "isitstable:v1",
       "baseScore": 80,
-      "score": 83,
+      "score": 84,
       "verdict": "pending",
-      "votePenalty": 0,
+      "votePenalty": 2,
       "evidencePenalty": 0,
-      "survivalDays": 1,
-      "survivalBonus": 3,
+      "survivalDays": 2,
+      "survivalBonus": 6,
       "curated": false,
       "curatedBonus": 0,
       "formula": {
         "baseScore": 80,
         "evidencePenalty": 0,
-        "votePenalty": 0,
-        "survivalDays": 1,
+        "votePenalty": 2,
+        "survivalDays": 2,
         "survivalPointsPerDay": 3,
-        "survivalCreditedDays": 1,
-        "survivalBonus": 3,
+        "survivalCreditedDays": 2,
+        "survivalBonus": 6,
         "curatedBonus": 0,
-        "score": 83
+        "score": 84
       },
       "affected": [],
       "evidence": []
     },
     "thumbsUp": 0,
-    "thumbsDown": 0,
+    "thumbsDown": 1,
     "createdAt": "2026-09-05T19:13:07.937Z"
   },
   {
@@ -2145,7 +2145,7 @@
       "affected": [],
       "evidence": []
     },
-    "thumbsUp": 2,
+    "thumbsUp": 3,
     "thumbsDown": 0,
     "createdAt": "2026-08-04T21:14:03.969Z"
   },
@@ -21190,6 +21190,44 @@
     "createdAt": "2026-04-24T16:30:05.632Z"
   },
   {
+    "issueNumber": 169,
+    "issueUrl": "https://github.com/exisz/IsItStable/issues/169",
+    "version": "0.21.1",
+    "packageName": "Hermes Agent",
+    "packageSlug": "hermes-agent",
+    "verdict": "pending",
+    "verdictComment": "",
+    "referencedIssues": [],
+    "stabilityScore": {
+      "schemaVersion": "isitstable:v1",
+      "baseScore": 80,
+      "score": 80,
+      "verdict": "pending",
+      "votePenalty": 0,
+      "evidencePenalty": 0,
+      "survivalDays": 0,
+      "survivalBonus": 0,
+      "curated": false,
+      "curatedBonus": 0,
+      "formula": {
+        "baseScore": 80,
+        "evidencePenalty": 0,
+        "votePenalty": 0,
+        "survivalDays": 0,
+        "survivalPointsPerDay": 3,
+        "survivalCreditedDays": 0,
+        "survivalBonus": 0,
+        "curatedBonus": 0,
+        "score": 80
+      },
+      "affected": [],
+      "evidence": []
+    },
+    "thumbsUp": 0,
+    "thumbsDown": 0,
+    "createdAt": "2026-09-07T22:33:03.442Z"
+  },
+  {
     "issueNumber": 165,
     "issueUrl": "https://github.com/exisz/IsItStable/issues/165",
     "version": "0.21.0",
@@ -21205,7 +21243,7 @@
       "verdict": "pending",
       "votePenalty": 0,
       "evidencePenalty": 0,
-      "survivalDays": 6,
+      "survivalDays": 7,
       "survivalBonus": 15,
       "curated": false,
       "curatedBonus": 0,
@@ -21213,7 +21251,7 @@
         "baseScore": 80,
         "evidencePenalty": 0,
         "votePenalty": 0,
-        "survivalDays": 6,
+        "survivalDays": 7,
         "survivalPointsPerDay": 3,
         "survivalCreditedDays": 5,
         "survivalBonus": 15,
